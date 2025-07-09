@@ -44,7 +44,7 @@ Pydantic (for output formatting)
 
 1. Clone this repo
 
-git clone https://github.com/yourusername/ai-research-agent.git
+git clone https://github.com/ARJUNA9/AI-research-Agent.git
 cd ai-research-agent
 
 
